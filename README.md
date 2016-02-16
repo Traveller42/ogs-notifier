@@ -17,7 +17,7 @@ This extension was originally released by **prozz** as the `nova-notifier` for u
 ### Install for development
 1. Clone [the repository on GitHub](https://github.com/traveller42/ogs-notifier),
 or download the [zip file](https://github.com/traveller42/ogs-notifier/archive/master.zip) and unpack it into a local directory
-* go to chrome://extensions in your browser
-* check 'Developer mode' box to have ability to load unpacked extensions
-* click 'Load unpacked extension...' button and point to unpacked directory
-* go to [OGS](https://online-go.com) and challenge **prozz** or **Traveller** :-)
+* Go to chrome://extensions in your browser
+* Check 'Developer mode' box to have ability to load unpacked extensions
+* Click 'Load unpacked extension...' button and point to unpacked directory
+* Go to [OGS](https://online-go.com) and challenge **prozz** or **Traveller** :-)
