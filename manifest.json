@@ -1,10 +1,9 @@
 {
   "name": "OGS Notifier",
-  "description": "Notifications from online-go.com Go server",
-  "version": "1",
+  "description": "Notifications from Online-Go Server (online-go.com)",
+  "version": "1.0.0",
   "manifest_version": 2,
   "permissions": [
-    "tabs",
     "https://online-go.com/*"
   ],
   "background": {

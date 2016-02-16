@@ -1,15 +1,23 @@
 ogs-notifier
-=============
+============
 
-Chrome plugin for easy notifications from http://online-go.com Go server. 
+Chrome Extension for easy notifications from [Online-Go Server](https://online-go.com).
 
 ### Installation
-* download zip file from https://github.com/prozz/ogs-notifier/archive/master.zip
-* unpack zip file
+This extension is available from the [Chrome Store](https://chrome.google.com/webstore/detail/ogs-notifier/fcoiihedkoepncejhcojgooljcflgpki).
+
+### Bugs/New features
+Please pass all the feature requests/bug reports via [GitHub](https://github.com/traveller42/ogs-notifier/issues) or to user **Traveller** on [OGS](https://online-go.com).
+
+### History
+This extension is based on the [original work](https://github.com/prozz/ogs-notifier) of **prozz** who can be found on GitHub or OGS.
+
+This extension was originally released by **prozz** as the `nova-notifier` for use with Nova.gs before the merger with the original OGS.
+
+### Install for development
+1. Clone [the repository on GitHub](https://github.com/traveller42/ogs-notifier),
+or download the [zip file](https://github.com/traveller42/ogs-notifier/archive/master.zip) and unpack it into a local directory
 * go to chrome://extensions in your browser
 * check 'Developer mode' box to have ability to load unpacked extensions
 * click 'Load unpacked extension...' button and point to unpacked directory
-* go to http://online-go.com and challenge prozz :)
-
-### Bugs/New features
-Please pass all the feature requests/bug reports via github or to user prozz on http://online-go.com.
+* go to [OGS](https://online-go.com) and challenge **prozz** or **Traveller** :-)
