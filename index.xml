@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OGS Notifier</title>
-    <link>http://traveller42.github.com/ogs-notifier/</link>
+    <link>https://traveller42.github.com/ogs-notifier/</link>
     <description>Recent content on OGS Notifier</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, Clark B. Wierda</copyright>
     <lastBuildDate>Tue, 23 Feb 2016 23:07:00 -0500</lastBuildDate>
-    <atom:link href="http://traveller42.github.com/ogs-notifier/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://traveller42.github.com/ogs-notifier/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>_index</title>
-      <link>http://traveller42.github.com/ogs-notifier/_index/</link>
+      <link>https://traveller42.github.com/ogs-notifier/_index/</link>
       <pubDate>Tue, 23 Feb 2016 23:07:00 -0500</pubDate>
       
-      <guid>http://traveller42.github.com/ogs-notifier/_index/</guid>
+      <guid>https://traveller42.github.com/ogs-notifier/_index/</guid>
       <description>
 
 &lt;h2 id=&#34;news:3976528693a0108357f4928017600865&#34;&gt;NEWS&lt;/h2&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>OGS Notifier Usage</title>
-      <link>http://traveller42.github.com/ogs-notifier/usage/</link>
+      <link>https://traveller42.github.com/ogs-notifier/usage/</link>
       <pubDate>Tue, 23 Feb 2016 23:02:00 -0500</pubDate>
       
-      <guid>http://traveller42.github.com/ogs-notifier/usage/</guid>
+      <guid>https://traveller42.github.com/ogs-notifier/usage/</guid>
       <description>
 
 &lt;h1 id=&#34;usage:dc32fe45042973266ca60588597e0b66&#34;&gt;Usage&lt;/h1&gt;
@@ -71,10 +71,10 @@ or download the &lt;a href=&#34;https://github.com/traveller42/ogs-notifier/arch
     
     <item>
       <title>About OGS Notifier</title>
-      <link>http://traveller42.github.com/ogs-notifier/about/</link>
+      <link>https://traveller42.github.com/ogs-notifier/about/</link>
       <pubDate>Tue, 23 Feb 2016 22:49:00 -0500</pubDate>
       
-      <guid>http://traveller42.github.com/ogs-notifier/about/</guid>
+      <guid>https://traveller42.github.com/ogs-notifier/about/</guid>
       <description>
 
 &lt;h1 id=&#34;ogs-notifier:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;OGS Notifier&lt;/h1&gt;
