@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
-hugo -s docs/project_site -d docs/project_site/public
+hugo -s docs/project_site
 
 # Add changes to git.
 git add -A
