@@ -1,4 +1,4 @@
-baseurl = "http://traveller42.github.com/ogs-notifier"
+baseurl = "https://traveller42.github.com/ogs-notifier"
 languageCode = "en-us"
 title = "OGS Notifier"
 theme = "bootie-docs"
