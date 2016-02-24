@@ -7,5 +7,5 @@ copyright = "Copyright (c) 2016, Clark B. Wierda"
 [params]
   description = "Chrome Extension for easy notifications from Online-Go Server"
   mainMenu = ["about", "usage"]
-  repositoryUrl = "http://github.com/traveller42/ogs-notifier"
+  repositoryUrl = "https://github.com/traveller42/ogs-notifier"
   noCategoryLink = true
