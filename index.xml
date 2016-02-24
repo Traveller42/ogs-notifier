@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OGS Notifier</title>
+    <link>http://traveller42.github.com/ogs-notifier/</link>
+    <description>Recent content on OGS Notifier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016, Clark B. Wierda</copyright>
+    <lastBuildDate>Tue, 23 Feb 2016 23:07:00 -0500</lastBuildDate>
+    <atom:link href="http://traveller42.github.com/ogs-notifier/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>_index</title>
+      <link>http://traveller42.github.com/ogs-notifier/_index/</link>
+      <pubDate>Tue, 23 Feb 2016 23:07:00 -0500</pubDate>
+      
+      <guid>http://traveller42.github.com/ogs-notifier/_index/</guid>
+      <description>
+
+&lt;h2 id=&#34;news:3976528693a0108357f4928017600865&#34;&gt;NEWS&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2016-02-15, Version 1.0.0 published to the &lt;a href=&#34;https://chrome.google.com/webstore/detail/ogs-notifier/fcoiihedkoepncejhcojgooljcflgpki&#34;&gt;Chrome Store&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OGS Notifier Usage</title>
+      <link>http://traveller42.github.com/ogs-notifier/usage/</link>
+      <pubDate>Tue, 23 Feb 2016 23:02:00 -0500</pubDate>
+      
+      <guid>http://traveller42.github.com/ogs-notifier/usage/</guid>
+      <description>
+
+&lt;h1 id=&#34;usage:dc32fe45042973266ca60588597e0b66&#34;&gt;Usage&lt;/h1&gt;
+
+&lt;h3 id=&#34;normal-installation:dc32fe45042973266ca60588597e0b66&#34;&gt;Normal Installation&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Install the extension by going to the &lt;a href=&#34;https://chrome.google.com/webstore/detail/ogs-notifier/fcoiihedkoepncejhcojgooljcflgpki&#34;&gt;Chrome Store&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Accept the Request to access online-go.com.
+
+&lt;ul&gt;
+&lt;li&gt;This is required to allow the extension to read the current status.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Log into the Online-Go Server if needed.
+
+&lt;ul&gt;
+&lt;li&gt;OGS Notifier can only report the status of the currently logged-in user.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;install-for-development:dc32fe45042973266ca60588597e0b66&#34;&gt;Install for development&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Clone &lt;a href=&#34;https://github.com/traveller42/ogs-notifier&#34;&gt;the repository on GitHub&lt;/a&gt;,
+or download the &lt;a href=&#34;https://github.com/traveller42/ogs-notifier/archive/master.zip&#34;&gt;zip file&lt;/a&gt; and unpack it into a local directory&lt;/li&gt;
+&lt;li&gt;Go to chrome://extensions in your browser&lt;/li&gt;
+&lt;li&gt;Check &amp;lsquo;Developer mode&amp;rsquo; box to have ability to load unpacked extensions&lt;/li&gt;
+&lt;li&gt;Click &amp;lsquo;Load unpacked extension&amp;hellip;&amp;rsquo; button and point to unpacked directory&lt;/li&gt;
+&lt;li&gt;Go to &lt;a href=&#34;https://online-go.com&#34;&gt;OGS&lt;/a&gt; and challenge &lt;strong&gt;prozz&lt;/strong&gt; or &lt;strong&gt;Traveller&lt;/strong&gt; :-)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;bugs-new-features:dc32fe45042973266ca60588597e0b66&#34;&gt;Bugs/New features&lt;/h3&gt;
+
+&lt;p&gt;Please pass all the feature requests or bug reports via &lt;a href=&#34;https://github.com/traveller42/ogs-notifier/issues&#34;&gt;GitHub&lt;/a&gt; or to user &lt;strong&gt;Traveller&lt;/strong&gt; on &lt;a href=&#34;https://online-go.com&#34;&gt;OGS&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About OGS Notifier</title>
+      <link>http://traveller42.github.com/ogs-notifier/about/</link>
+      <pubDate>Tue, 23 Feb 2016 22:49:00 -0500</pubDate>
+      
+      <guid>http://traveller42.github.com/ogs-notifier/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;ogs-notifier:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;OGS Notifier&lt;/h1&gt;
+
+&lt;p&gt;Chrome Extension for easy notifications from &lt;a href=&#34;https://online-go.com&#34;&gt;Online-Go Server&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;current-version:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Current Version&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Stable, v1.0.0 (available from the &lt;a href=&#34;https://chrome.google.com/webstore/detail/ogs-notifier/fcoiihedkoepncejhcojgooljcflgpki&#34;&gt;Chrome Store&lt;/a&gt;.
+)&lt;/li&gt;
+&lt;li&gt;Development, v1.0.0&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;history:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;History&lt;/h3&gt;
+
+&lt;p&gt;This extension is based on the &lt;a href=&#34;https://github.com/prozz/ogs-notifier&#34;&gt;original work&lt;/a&gt; of &lt;strong&gt;prozz&lt;/strong&gt; who can be found on GitHub or OGS.&lt;/p&gt;
+
+&lt;p&gt;This extension was originally released by &lt;strong&gt;prozz&lt;/strong&gt; as the &lt;code&gt;nova-notifier&lt;/code&gt; for use with Nova.gs before the merger with the original OGS.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
